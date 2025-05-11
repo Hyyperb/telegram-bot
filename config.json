@@ -1,0 +1,26 @@
+{
+  "TELEGRAM_API_KEY": "",
+  "TELEGRAM_GROUP_ID": "",
+  "JSONBIN_API_KEY": "",
+  "JSONBIN_BUCKET_ID": "",
+  "timezone": "",
+  "city": "",
+  "boards_date": "",
+  "servers": {
+    "hypixel": "hypixel.net",
+    "example": ""
+  },
+  "next exam messages": {
+    "past exam": "{name} was {days} days ago",
+    "more than 5 days": "{name} in {days} days!",
+    "within 5 days": "{name} in {hours} hours!!!",
+    "within an hour": "{seconds}s till exam starts!!!!!"
+  },
+  "exam types": {
+    "ABC": "Example exam"
+  },
+  "motivation quotes": [
+    "Go study rigth now",
+    "Another example quote"
+  ]
+}
